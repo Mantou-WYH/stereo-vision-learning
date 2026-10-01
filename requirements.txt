@@ -1,0 +1,6 @@
+# Dependency reference; keep the existing working environment when available.
+numpy
+matplotlib
+opencv-python
+Pillow
+scikit-image

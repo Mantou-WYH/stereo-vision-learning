@@ -1,0 +1,26 @@
+# Existing datasets and downloaded tools stay on this computer.
+/data/
+
+# Detailed teaching records and generated results stay local by default.
+/notes/
+/*.docx
+/AGENTS.md
+
+# Environment, editor state and temporary previews.
+__pycache__/
+*.py[cod]
+/.idea/
+/.vscode/
+/.qa_*
+/.venv/
+/venv/
+/.publish/
+*.tmp
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Local operating instructions must not enter the public branch.
+/LOCAL_GIT.md
